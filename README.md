@@ -56,6 +56,9 @@ SHAKTI has various processor classes for different applications:
 
 ## Architecture Overview
 
+### Block Diagram:
+![image](https://github.com/user-attachments/assets/064eb0da-7fc2-4b20-87cb-cb9911e8d984)
+
 ### Components and Interactions:
 
 * **Instruction Fetch:** From L1 instruction cache using PC.
@@ -106,6 +109,9 @@ SHAKTI has various processor classes for different applications:
 ## Pipelining
 
 * **Stages:** IF → ID → EX → MEM → WB
+
+### Pipeline Diagram:
+![image](https://github.com/user-attachments/assets/1218aa2b-c7ef-4c7c-8714-f74fc5faa58f)
 
 ### Hazards:
 
